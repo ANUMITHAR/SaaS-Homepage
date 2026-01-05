@@ -75,5 +75,6 @@ The homepage contains:
 - Include pricing and contact sections
 - Convert to React or Tailwind CSS
 
+<img width="1916" height="918" alt="image" src="https://github.com/user-attachments/assets/f818f6f6-2bea-4cd2-960d-3586948d8fc2" />
 
 
